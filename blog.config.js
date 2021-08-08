@@ -1,6 +1,6 @@
 module.exports = {
   url: "https://www.davidmunro.dev/",
-  title: "David Munro Blog",
+  title: "davidmunro.dev",
   subtitle: "Developer, Discer and Author",
   description: "Rantings of a madman.",
   author: "David Munro",
