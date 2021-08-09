@@ -13,10 +13,10 @@ const DraftBadge = (props) => (
       position: "absolute",
       top: "-3px",
       left: "-60px",
-      borderRadius: "2px",
+      borderRadius: "4px",
     }}
   >
-    draft
+    Draft
   </Text>
 )
 
